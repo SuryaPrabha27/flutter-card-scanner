@@ -7,7 +7,7 @@ This plugin works on latest versions of Flutter, Dart & Swift.
 
 This plugin works only for credit cards of type AMEX, JCB, VISA, MASTER CARD & DISCOVER.
 
-**Note: This plugin for Android is still under development, and some APIs might not be available yet. 
+**Note: This plugin for Android is still under development, and some APIs might not be available yet.** 
 
 **Feedback and pull requests are welcome!**
 
