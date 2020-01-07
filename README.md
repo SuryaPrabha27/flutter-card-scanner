@@ -7,9 +7,9 @@ This plugin works on latest versions of Flutter, Dart & Swift.
 
 This plugin works only for credit cards of type AMEX, JCB, VISA, MASTER CARD & DISCOVER.
 
-Note: This plugin for Android is still under development, and some APIs might not be available yet. 
+**Note: This plugin for Android is still under development, and some APIs might not be available yet. 
 
-Feedback and pull requests are welcome!
+Feedback and pull requests are welcome!**
 
 Installation
 First, add flutter_card_scanner_latest as a dependency in your pubspec.yaml file.
@@ -20,7 +20,8 @@ Add the following key to your Info.plist file, located in <project root>/ios/Run
 
 NSCameraUsageDescription - Camera in Use
 
-Below is the how one can invoke the plugin to retrieve the response.
+
+######Below is the how one can invoke the plugin to retrieve the response.
 
 Request:
 
