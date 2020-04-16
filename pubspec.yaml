@@ -1,10 +1,8 @@
 name: flutter_card_scanner_latest
-description: A flutter project for scanning the credit cards on an iOS device which returns a json response with the
-  details like cardholder's name and the expiry date of the card.
-  For security reasons, we are not collecting CVV during the scan.
-version: 0.0.1
-author: Surya Prabha
+description: A flutter project for scanning the credit cards on an iOS device.
+version: 1.0.0
 homepage: https://flutter.io/
+repository: https://github.com/SuryaPrabha27/flutter-card-scanner
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

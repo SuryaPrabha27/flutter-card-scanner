@@ -2,6 +2,8 @@ name: flutter_card_scanner_latest_example
 description: Demonstrates how to use the flutter_card_scanner_latest plugin.
 publish_to: 'none'
 version: 0.0.1
+authors:
+  - Surya Prabha
 environment:
   sdk: ">=2.1.0 <3.0.0"
 
