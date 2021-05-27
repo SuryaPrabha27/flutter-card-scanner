@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/services.dart';
+
 //Plugin for iOS devices for scanning credit cards using the camera.
 // If a device, doesn't support camera then a manual entry screen
 // would be shown up where the card details can be entered.
