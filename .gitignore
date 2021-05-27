@@ -6,5 +6,8 @@
 
 # Flutter/Dart/Pub related
 /build/
+.dart_tool/
 .packages
 /android/
+/example/ios/.symlinks
+/ios/Assets/*

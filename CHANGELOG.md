@@ -1,3 +1,3 @@
-## 1.0.0
+## 1.0.3
 
-######Initial version of card scanner which supports only iOS devices.
+###### Upgraded flutter version to latest one.
