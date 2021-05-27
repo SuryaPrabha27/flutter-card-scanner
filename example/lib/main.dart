@@ -5,6 +5,8 @@ import 'package:flutter/services.dart';
 import 'package:flutter_card_scanner_latest/flutter_card_scanner_latest.dart';
 import 'CardScanResponse.dart';
 import 'Constant.dart';
+/*Example class which demonstrates
+the use of the plugin*/
 
 void main() => runApp(MyApp());
 
@@ -27,8 +29,10 @@ class _MyAppState extends State<MyApp> {
     // Platform messages may fail, so we use a try/catch PlatformException.
     try {
       String response = await FlutterCardScannerLatest.scanCard;
+      //Parsing the response
       final CardScanResponse cardScanResponse =
       CardScanResponse.fromJSON(json.decode(response));
+      //Reading the response and rendering it on the screen
       if (cardScanResponse.result == Constant.success) {
         scanResponse = cardScanResponse.responseText +
             '\n' +
