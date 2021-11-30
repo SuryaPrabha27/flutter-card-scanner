@@ -1,7 +1,7 @@
 **Card Scanner Plugin**
 
 A Flutter plugin for iOS devices for scanning credit cards using the camera. 
-If a device, doesn't support camera then a manual entry screen would be shown up where the caerd details can be entered.
+If a device, doesn't support camera then a manual entry screen would be shown up where the card details can be entered.
 
 This plugin uses the static CardIO library and is written in iOS native language i.e. Swift
 
